@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @loloy03
-- 👀 I’m interested in web dev and cyber secu(?)
-- 🌱 I’m currently learning js 
 
 
 <!---
